@@ -6,22 +6,24 @@ https://rascalrosey.itch.io/frankencards
 
 <h1 align="center">"IT'S A VICE!"</h1>
 
-Victor Frankenstein has gambled away his fortune, his castle and his dignity! He's being sued by Dracula for using his likeness in the deck. No longer can he call himself Victor. So he worked late, in the lab one night, before his eyes was an eerie sight, for his gambling monster from his slab began to rise and to Victors delight he began to **gamble**.
+<p align="center" >Victor Frankenstein has gambled away his fortune, his castle and his dignity! He's being sued by Dracula for using his likeness in the deck. No longer can he call himself Victor. So he worked late, in the lab one night, before his eyes was an eerie sight, for his gambling monster from his slab began to rise and to Victors delight he began to gamble.</p>
 
-<img src="img/AcKuib.png" alt="" style="display: inline-block; height: 1.25rem; width: auto; vertical-align: text-bottom; margin: 0 0.25rem;" />
+<p align="center" ><a href "link"> <img src="img/AcKuib.png"></a></p>
 
-FrankenCard is a turn based card game where you split and merge cards together to defeat gambling Frankenstein to win back your dignity.
+<p align="center" >FrankenCard is a turn based card game where you split and merge cards together to defeat gambling Frankenstein to win back your dignity.</p>
 
-<img src="img/ControlsIMG.png" alt="" style="display: inline-block; height: 1.25rem; width: auto; vertical-align: text-bottom; margin: 0 0.25rem;" />
+<p align="center" ><a href "link"> <img src="img/ControlsIMG.png"></a></p>
 
-**Split Cards** - Right Click
-**Merge and Play cards** - Left Click
+<p align="center">Split Cards - Right Click</p>
+<p align="center">Merge and Play cards - Left Click</p>
 
-<img src="img/CreditsIMG.png" alt="" style="display: inline-block; height: 1.25rem; width: auto; vertical-align: text-bottom; margin: 0 0.25rem;" />
+<p align="center" ><a href "link"> <img src="img/CreditsIMG.png"></a></p>
 
+<p align="center" >
 Ethan Holden
 Marc Vance
 Anthony Hood
 Elliot Codling
+</p>
 
-<img src="img/GenAIIMG.png" alt="" style="display: inline-block; height: 1.25rem; width: auto; vertical-align: text-bottom; margin: 0 0.25rem;" />
+<p align="center" ><a href "link"> <img src="img/GenAIIMG.png"></a></p>
