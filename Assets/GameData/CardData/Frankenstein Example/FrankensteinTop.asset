@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d439f96f6e6867247972d506e440f53c, type: 3}
+  m_Name: FrankensteinTop
+  m_EditorClassIdentifier: Assembly-CSharp::CardPartData
+  PartID: 11
+  PartName: FRANKENSTEIN
+  GUID: 
+  PartPosition: 1
+  PartMaterial: {fileID: 2100000, guid: ddd049820f967f94a9a03aa24a41a621, type: 2}
+  PartCost: 8
+  PartType: 3
+  AbilityValue: 1
+  AbilityDesc: Draw an extra card

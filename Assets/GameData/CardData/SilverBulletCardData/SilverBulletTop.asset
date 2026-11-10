@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d439f96f6e6867247972d506e440f53c, type: 3}
+  m_Name: SilverBulletTop
+  m_EditorClassIdentifier: Assembly-CSharp::CardPartData
+  PartID: 3
+  PartName: SILVER BULLET
+  GUID: 
+  PartPosition: 1
+  PartMaterial: {fileID: 2100000, guid: 8c277641489ef554b8feae3e24ecda36, type: 2}
+  PartCost: 2
+  PartType: 1
+  AbilityValue: 2
+  AbilityDesc: Deal 2 Damage

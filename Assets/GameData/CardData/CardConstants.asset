@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e3632371c63f2148b6e439cd3806369, type: 3}
+  m_Name: CardConstants
+  m_EditorClassIdentifier: Assembly-CSharp::Frankencard.CardConstants.CardConstants
+  AddCardIDField: 0
+  AddCardDataField: {fileID: 0}
+  RemoveCardIDField: 8
+  CardDataContainer:
+    m_keys: 0200000003000000040000000500000006000000070000000900000008000000
+    m_values:
+    - {fileID: 11400000, guid: 963ebbc743cf7e04986e221da798a0d3, type: 2}
+    - {fileID: 11400000, guid: 02bedee9f65869e4a99d02b9789f2bee, type: 2}
+    - {fileID: 11400000, guid: f529ec94544151942b22f2e7214a7c36, type: 2}
+    - {fileID: 11400000, guid: 770121a1c9a83554e9348c348f615bfc, type: 2}
+    - {fileID: 11400000, guid: 64ebac8f2f17fe844940c5c253775fb0, type: 2}
+    - {fileID: 11400000, guid: 9e0a22717f98aad4b9eed1a0af7bed9b, type: 2}
+    - {fileID: 11400000, guid: ce6990c6e1cfe704dac8fff17badceae, type: 2}
+    - {fileID: 11400000, guid: 0b679240792702b47a7607c6dd60faf9, type: 2}

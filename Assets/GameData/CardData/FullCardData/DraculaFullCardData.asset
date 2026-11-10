@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5c95a7a58d890b478afbad145a222d4, type: 3}
+  m_Name: DraculaFullCardData
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  CardID: 6
+  CardName: DRACULA
+  GUID: 
+  CardTopData: {fileID: 11400000, guid: 7ebe7a8e787f3d94c8d4a3360efc3906, type: 2}
+  CardBottomData: {fileID: 11400000, guid: 581d872715cba984c847e090241f8a53, type: 2}
